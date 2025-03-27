@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iqbal-anna)](https://git.io/streak-stats)
+[![GitHub Streak]([https://streak-stats.demolab.com/](https://github-readme-streak-stats-eight.vercel.app/?user=iqbal-anna&theme=tokyonight)](https://git.io/streak-stats)
